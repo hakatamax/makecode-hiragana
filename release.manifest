@@ -1,0 +1,89 @@
+CACHE MANIFEST
+
+CACHE:
+/makecode-hiragana/semantic.js
+/makecode-hiragana/main.js
+/makecode-hiragana/pxtapp.js
+/makecode-hiragana/typescript.js
+/makecode-hiragana/marked/marked.min.js
+/makecode-hiragana/highlight.js/highlight.pack.js
+/makecode-hiragana/jquery.js
+/makecode-hiragana/pxtlib.js
+/makecode-hiragana/pxtcompiler.js
+/makecode-hiragana/pxtpy.js
+/makecode-hiragana/pxteditor.js
+/makecode-hiragana/pxtsim.js
+/makecode-hiragana/pxtembed.js
+/makecode-hiragana/pxtworker.js
+/makecode-hiragana/pxtweb.js
+/makecode-hiragana/blockly.css
+/makecode-hiragana/semantic.css
+/makecode-hiragana/rtlsemantic.css
+
+
+/makecode-hiragana/editor.js
+/makecode-hiragana/fieldeditors.js
+
+# blockly
+/makecode-hiragana/blockly/media/sprites.png
+/makecode-hiragana/blockly/media/click.mp3
+/makecode-hiragana/blockly/media/disconnect.wav
+/makecode-hiragana/blockly/media/delete.mp3
+
+# monaco; keep in sync with webapp/public/index.html
+/makecode-hiragana/vs/loader.js
+/makecode-hiragana/vs/base/worker/workerMain.js
+/makecode-hiragana/vs/basic-languages/bat/bat.js
+/makecode-hiragana/vs/basic-languages/cpp/cpp.js
+/makecode-hiragana/vs/basic-languages/python/python.js
+/makecode-hiragana/vs/basic-languages/typescript/typescript.js
+/makecode-hiragana/vs/basic-languages/markdown/markdown.js
+/makecode-hiragana/vs/editor/editor.main.css
+/makecode-hiragana/vs/editor/editor.main.js
+/makecode-hiragana/vs/editor/editor.main.nls.js
+/makecode-hiragana/vs/language/json/jsonMode.js
+/makecode-hiragana/vs/language/json/jsonWorker.js
+/makecode-hiragana/vs/language/typescript/tsMode.js
+/makecode-hiragana/vs/language/typescript/tsWorker.js
+
+# charts
+/makecode-hiragana/smoothie/smoothie_compressed.js
+/makecode-hiragana/images/Bars_black.gif
+
+# gifjs
+/makecode-hiragana/gifjs/gif.js
+
+# ai
+/makecode-hiragana/ai.0.js
+
+/makecode-hiragana/worker.js
+/makecode-hiragana/monacoworker.js
+
+# ver Tue Nov 24 2026 10:00:15 GMT+0000 (Coordinated Universal Time)
+
+# target
+/makecode-hiragana/docs/static/providers/github-mark.png
+/makecode-hiragana/docs/static/providers/microsoft-logo.svg
+/makecode-hiragana/docs/static/providers/google-logo.svg
+/makecode-hiragana/docs/static/providers/clever-logo.png
+/makecode-hiragana/docs/static/logo-hiragana.portrait.white.svg
+/makecode-hiragana/docs/static/logo-hiragana.square.white.svg
+/makecode-hiragana/docs/static/logo-hiragana.portrait.black.svg
+/makecode-hiragana/docs/static/icons/apple-touch-icon.png
+/makecode-hiragana/docs/static/logo-hiragana.org-wide.white.svg
+/makecode-hiragana/docs/static/herogallery/hero-banner.png
+/makecode-hiragana/docs/static/download/transfer.png
+/makecode-hiragana/docs/static/download/connect-microbit.gif
+/makecode-hiragana/docs/static/download/full-reset.gif
+/makecode-hiragana/docs/static/download/selecting-microbit.gif
+/makecode-hiragana/docs/static/download/successfully-paired.png
+/makecode-hiragana/docs/static/download/incompatible.png
+/makecode-hiragana/docs/static/download/device-forgotten.gif
+/makecode-hiragana/docs/static/download/browser-unpair-image.gif
+/makecode-hiragana/docs/static/winapp.PNG
+/makecode-hiragana/docs/static/profile/microbit-cloud.png
+
+/makecode-hiragana/target.js
+
+NETWORK:
+*

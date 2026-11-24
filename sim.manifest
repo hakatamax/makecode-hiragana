@@ -1,0 +1,19 @@
+CACHE MANIFEST
+
+CACHE:
+/makecode-hiragana/pxtsim.js
+/makecode-hiragana/sim.js
+
+/makecode-hiragana/sounds/giggle.wav
+/makecode-hiragana/sounds/happy.wav
+/makecode-hiragana/sounds/hello.wav
+/makecode-hiragana/sounds/mysterious.wav
+/makecode-hiragana/sounds/sad.wav
+/makecode-hiragana/sounds/slide.wav
+/makecode-hiragana/sounds/soaring.wav
+/makecode-hiragana/sounds/spring.wav
+/makecode-hiragana/sounds/twinkle.wav
+/makecode-hiragana/sounds/yawn.wav
+
+NETWORK:
+*
